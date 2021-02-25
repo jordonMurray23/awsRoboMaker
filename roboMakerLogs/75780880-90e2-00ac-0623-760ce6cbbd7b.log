@@ -1,0 +1,484 @@
+ [39m[11:52:06 PM] --> Downloading code repository
+ [39mCompleted 256.0 KiB/67.6 MiB (1.5 MiB/s) with 1 file(s) remaining [39mCompleted 512.0 KiB/67.6 MiB (2.8 MiB/s) with 1 file(s) remaining [39mCompleted 768.0 KiB/67.6 MiB (4.2 MiB/s) with 1 file(s) remaining [39mCompleted 1.0 MiB/67.6 MiB (5.4 MiB/s) with 1 file(s) remaining   [39mCompleted 1.2 MiB/67.6 MiB (6.7 MiB/s) with 1 file(s) remaining   [39mCompleted 1.5 MiB/67.6 MiB (7.9 MiB/s) with 1 file(s) remaining   [39mCompleted 1.8 MiB/67.6 MiB (9.2 MiB/s) with 1 file(s) remaining   [39mCompleted 2.0 MiB/67.6 MiB (10.3 MiB/s) with 1 file(s) remaining  [39mCompleted 2.2 MiB/67.6 MiB (11.5 MiB/s) with 1 file(s) remaining  [39mCompleted 2.5 MiB/67.6 MiB (12.3 MiB/s) with 1 file(s) remaining  [39mCompleted 2.8 MiB/67.6 MiB (13.5 MiB/s) with 1 file(s) remaining  [39mCompleted 3.0 MiB/67.6 MiB (14.1 MiB/s) with 1 file(s) remaining  [39mCompleted 3.2 MiB/67.6 MiB (15.0 MiB/s) with 1 file(s) remaining  [39mCompleted 3.5 MiB/67.6 MiB (15.8 MiB/s) with 1 file(s) remaining  [39mCompleted 3.8 MiB/67.6 MiB (16.6 MiB/s) with 1 file(s) remaining  [39mCompleted 4.0 MiB/67.6 MiB (17.5 MiB/s) with 1 file(s) remaining  [39mCompleted 4.2 MiB/67.6 MiB (18.3 MiB/s) with 1 file(s) remaining  [39mCompleted 4.5 MiB/67.6 MiB (19.2 MiB/s) with 1 file(s) remaining  [39mCompleted 4.8 MiB/67.6 MiB (19.7 MiB/s) with 1 file(s) remaining  [39mCompleted 5.0 MiB/67.6 MiB (20.4 MiB/s) with 1 file(s) remaining  [39mCompleted 5.2 MiB/67.6 MiB (21.0 MiB/s) with 1 file(s) remaining  [39mCompleted 5.5 MiB/67.6 MiB (21.7 MiB/s) with 1 file(s) remaining  [39mCompleted 5.8 MiB/67.6 MiB (22.3 MiB/s) with 1 file(s) remaining  [39mCompleted 6.0 MiB/67.6 MiB (23.1 MiB/s) with 1 file(s) remaining  [39mCompleted 6.2 MiB/67.6 MiB (23.7 MiB/s) with 1 file(s) remaining  [39mCompleted 6.5 MiB/67.6 MiB (24.2 MiB/s) with 1 file(s) remaining  [39mCompleted 6.8 MiB/67.6 MiB (24.4 MiB/s) with 1 file(s) remaining  [39mCompleted 7.0 MiB/67.6 MiB (25.1 MiB/s) with 1 file(s) remaining  [39mCompleted 7.2 MiB/67.6 MiB (25.7 MiB/s) with 1 file(s) remaining  [39mCompleted 7.8 MiB/67.6 MiB (26.9 MiB/s) with 1 file(s) remaining Completed 8.0 MiB/67.6 MiB (27.7 MiB/s) with 1 file(s) remaining  [39mCompleted 7.5 MiB/67.6 MiB (26.4 MiB/s) with 1 file(s) remaining  [39mCompleted 8.2 MiB/67.6 MiB (27.5 MiB/s) with 1 file(s) remaining  [39mCompleted 8.5 MiB/67.6 MiB (27.9 MiB/s) with 1 file(s) remaining  [39mCompleted 8.8 MiB/67.6 MiB (28.2 MiB/s) with 1 file(s) remaining  [39mCompleted 9.0 MiB/67.6 MiB (28.7 MiB/s) with 1 file(s) remaining  [39mCompleted 9.2 MiB/67.6 MiB (29.2 MiB/s) with 1 file(s) remaining  [39mCompleted 9.5 MiB/67.6 MiB (29.7 MiB/s) with 1 file(s) remaining  [39mCompleted 9.8 MiB/67.6 MiB (30.2 MiB/s) with 1 file(s) remaining  [39mCompleted 10.0 MiB/67.6 MiB (30.9 MiB/s) with 1 file(s) remaining [39mCompleted 10.2 MiB/67.6 MiB (31.3 MiB/s) with 1 file(s) remaining [39mCompleted 10.5 MiB/67.6 MiB (31.7 MiB/s) with 1 file(s) remaining [39mCompleted 10.8 MiB/67.6 MiB (32.0 MiB/s) with 1 file(s) remaining [39mCompleted 11.0 MiB/67.6 MiB (32.2 MiB/s) with 1 file(s) remaining [39mCompleted 11.2 MiB/67.6 MiB (32.5 MiB/s) with 1 file(s) remaining [39mCompleted 11.5 MiB/67.6 MiB (33.0 MiB/s) with 1 file(s) remaining [39mCompleted 11.8 MiB/67.6 MiB (33.6 MiB/s) with 1 file(s) remaining [39mCompleted 12.0 MiB/67.6 MiB (34.2 MiB/s) with 1 file(s) remaining [39mCompleted 12.2 MiB/67.6 MiB (33.6 MiB/s) with 1 file(s) remaining [39mCompleted 12.5 MiB/67.6 MiB (34.1 MiB/s) with 1 file(s) remaining [39mCompleted 12.8 MiB/67.6 MiB (34.7 MiB/s) with 1 file(s) remaining [39mCompleted 13.0 MiB/67.6 MiB (34.9 MiB/s) with 1 file(s) remainingCompleted 13.2 MiB/67.6 MiB (35.5 MiB/s) with 1 file(s) remaining [39mCompleted 13.5 MiB/67.6 MiB (35.9 MiB/s) with 1 file(s) remaining [39mCompleted 13.8 MiB/67.6 MiB (36.3 MiB/s) with 1 file(s) remaining [39mCompleted 14.0 MiB/67.6 MiB (36.6 MiB/s) with 1 file(s) remaining [39mCompleted 14.2 MiB/67.6 MiB (36.9 MiB/s) with 1 file(s) remaining [39mCompleted 14.5 MiB/67.6 MiB (37.0 MiB/s) with 1 file(s) remaining [39mCompleted 14.8 MiB/67.6 MiB (37.6 MiB/s) with 1 file(s) remaining [39mCompleted 15.0 MiB/67.6 MiB (38.1 MiB/s) with 1 file(s) remaining [39mCompleted 15.2 MiB/67.6 MiB (37.9 MiB/s) with 1 file(s) remaining [39mCompleted 15.5 MiB/67.6 MiB (38.3 MiB/s) with 1 file(s) remaining [39mCompleted 15.8 MiB/67.6 MiB (38.6 MiB/s) with 1 file(s) remaining [39mCompleted 16.0 MiB/67.6 MiB (38.9 MiB/s) with 1 file(s) remaining [39mCompleted 16.2 MiB/67.6 MiB (39.0 MiB/s) with 1 file(s) remaining [39mCompleted 16.5 MiB/67.6 MiB (39.5 MiB/s) with 1 file(s) remaining [39mCompleted 16.8 MiB/67.6 MiB (39.9 MiB/s) with 1 file(s) remaining [39mCompleted 17.0 MiB/67.6 MiB (39.9 MiB/s) with 1 file(s) remaining [39mCompleted 17.2 MiB/67.6 MiB (40.1 MiB/s) with 1 file(s) remaining [39mCompleted 17.5 MiB/67.6 MiB (40.2 MiB/s) with 1 file(s) remaining [39mCompleted 17.8 MiB/67.6 MiB (40.4 MiB/s) with 1 file(s) remaining [39mCompleted 18.0 MiB/67.6 MiB (40.7 MiB/s) with 1 file(s) remaining [39mCompleted 18.2 MiB/67.6 MiB (40.8 MiB/s) with 1 file(s) remainingCompleted 18.5 MiB/67.6 MiB (41.3 MiB/s) with 1 file(s) remaining [39mCompleted 18.8 MiB/67.6 MiB (41.6 MiB/s) with 1 file(s) remaining [39mCompleted 19.0 MiB/67.6 MiB (42.0 MiB/s) with 1 file(s) remaining [39mCompleted 19.2 MiB/67.6 MiB (42.0 MiB/s) with 1 file(s) remaining [39mCompleted 19.5 MiB/67.6 MiB (42.4 MiB/s) with 1 file(s) remaining [39mCompleted 19.8 MiB/67.6 MiB (42.3 MiB/s) with 1 file(s) remaining [39mCompleted 20.0 MiB/67.6 MiB (42.6 MiB/s) with 1 file(s) remaining [39mCompleted 20.2 MiB/67.6 MiB (42.3 MiB/s) with 1 file(s) remaining [39mCompleted 20.5 MiB/67.6 MiB (42.7 MiB/s) with 1 file(s) remaining [39mCompleted 20.8 MiB/67.6 MiB (42.9 MiB/s) with 1 file(s) remaining [39mCompleted 21.0 MiB/67.6 MiB (43.3 MiB/s) with 1 file(s) remaining [39mCompleted 21.2 MiB/67.6 MiB (43.6 MiB/s) with 1 file(s) remaining [39mCompleted 21.5 MiB/67.6 MiB (43.7 MiB/s) with 1 file(s) remaining [39mCompleted 21.8 MiB/67.6 MiB (43.5 MiB/s) with 1 file(s) remainingCompleted 22.0 MiB/67.6 MiB (43.8 MiB/s) with 1 file(s) remainingCompleted 22.2 MiB/67.6 MiB (43.9 MiB/s) with 1 file(s) remainingCompleted 22.5 MiB/67.6 MiB (44.2 MiB/s) with 1 file(s) remaining [39mCompleted 22.8 MiB/67.6 MiB (44.4 MiB/s) with 1 file(s) remaining [39mCompleted 23.0 MiB/67.6 MiB (44.2 MiB/s) with 1 file(s) remaining [39mCompleted 23.2 MiB/67.6 MiB (44.5 MiB/s) with 1 file(s) remainingCompleted 23.5 MiB/67.6 MiB (44.9 MiB/s) with 1 file(s) remaining [39mCompleted 23.8 MiB/67.6 MiB (45.0 MiB/s) with 1 file(s) remaining [39mCompleted 24.0 MiB/67.6 MiB (45.3 MiB/s) with 1 file(s) remaining [39mCompleted 24.2 MiB/67.6 MiB (45.6 MiB/s) with 1 file(s) remaining [39mCompleted 24.5 MiB/67.6 MiB (45.5 MiB/s) with 1 file(s) remaining [39mCompleted 24.8 MiB/67.6 MiB (45.4 MiB/s) with 1 file(s) remaining [39mCompleted 25.0 MiB/67.6 MiB (45.8 MiB/s) with 1 file(s) remaining [39mCompleted 25.2 MiB/67.6 MiB (46.1 MiB/s) with 1 file(s) remaining [39mCompleted 25.5 MiB/67.6 MiB (46.2 MiB/s) with 1 file(s) remaining [39mCompleted 25.8 MiB/67.6 MiB (46.0 MiB/s) with 1 file(s) remaining [39mCompleted 26.0 MiB/67.6 MiB (46.3 MiB/s) with 1 file(s) remaining [39mCompleted 26.2 MiB/67.6 MiB (46.6 MiB/s) with 1 file(s) remaining [39mCompleted 26.5 MiB/67.6 MiB (47.0 MiB/s) with 1 file(s) remaining [39mCompleted 26.8 MiB/67.6 MiB (47.4 MiB/s) with 1 file(s) remaining [39mCompleted 27.0 MiB/67.6 MiB (47.0 MiB/s) with 1 file(s) remainingCompleted 27.2 MiB/67.6 MiB (47.0 MiB/s) with 1 file(s) remaining [39mCompleted 27.5 MiB/67.6 MiB (46.8 MiB/s) with 1 file(s) remaining [39mCompleted 27.8 MiB/67.6 MiB (47.0 MiB/s) with 1 file(s) remaining [39mCompleted 28.0 MiB/67.6 MiB (47.1 MiB/s) with 1 file(s) remaining [39mCompleted 28.2 MiB/67.6 MiB (47.4 MiB/s) with 1 file(s) remaining [39mCompleted 28.5 MiB/67.6 MiB (47.6 MiB/s) with 1 file(s) remaining [39mCompleted 28.8 MiB/67.6 MiB (47.7 MiB/s) with 1 file(s) remaining [39mCompleted 29.0 MiB/67.6 MiB (48.0 MiB/s) with 1 file(s) remaining [39mCompleted 29.2 MiB/67.6 MiB (48.3 MiB/s) with 1 file(s) remaining [39mCompleted 29.5 MiB/67.6 MiB (48.2 MiB/s) with 1 file(s) remaining [39mCompleted 29.8 MiB/67.6 MiB (48.5 MiB/s) with 1 file(s) remaining [39mCompleted 30.0 MiB/67.6 MiB (48.4 MiB/s) with 1 file(s) remainingCompleted 30.2 MiB/67.6 MiB (48.5 MiB/s) with 1 file(s) remainingCompleted 30.5 MiB/67.6 MiB (48.2 MiB/s) with 1 file(s) remainingCompleted 30.8 MiB/67.6 MiB (48.5 MiB/s) with 1 file(s) remaining [39mCompleted 31.0 MiB/67.6 MiB (48.3 MiB/s) with 1 file(s) remainingCompleted 31.2 MiB/67.6 MiB (48.6 MiB/s) with 1 file(s) remainingCompleted 31.5 MiB/67.6 MiB (48.9 MiB/s) with 1 file(s) remainingCompleted 31.8 MiB/67.6 MiB (49.2 MiB/s) with 1 file(s) remaining [39mCompleted 32.0 MiB/67.6 MiB (48.4 MiB/s) with 1 file(s) remainingCompleted 32.2 MiB/67.6 MiB (48.7 MiB/s) with 1 file(s) remainingCompleted 32.5 MiB/67.6 MiB (49.1 MiB/s) with 1 file(s) remaining [39mCompleted 32.8 MiB/67.6 MiB (49.2 MiB/s) with 1 file(s) remainingCompleted 33.0 MiB/67.6 MiB (49.5 MiB/s) with 1 file(s) remaining [39mCompleted 33.2 MiB/67.6 MiB (49.7 MiB/s) with 1 file(s) remainingCompleted 33.5 MiB/67.6 MiB (50.0 MiB/s) with 1 file(s) remaining [39mCompleted 33.8 MiB/67.6 MiB (49.6 MiB/s) with 1 file(s) remainingCompleted 34.0 MiB/67.6 MiB (49.7 MiB/s) with 1 file(s) remainingCompleted 34.2 MiB/67.6 MiB (49.9 MiB/s) with 1 file(s) remainingCompleted 34.5 MiB/67.6 MiB (50.1 MiB/s) with 1 file(s) remaining [39mCompleted 34.8 MiB/67.6 MiB (50.4 MiB/s) with 1 file(s) remaining [39mCompleted 35.0 MiB/67.6 MiB (50.3 MiB/s) with 1 file(s) remaining [39mCompleted 35.2 MiB/67.6 MiB (50.2 MiB/s) with 1 file(s) remainingCompleted 35.5 MiB/67.6 MiB (50.5 MiB/s) with 1 file(s) remainingCompleted 35.8 MiB/67.6 MiB (50.7 MiB/s) with 1 file(s) remaining [39mCompleted 36.0 MiB/67.6 MiB (50.3 MiB/s) with 1 file(s) remainingCompleted 36.2 MiB/67.6 MiB (50.4 MiB/s) with 1 file(s) remainingCompleted 36.5 MiB/67.6 MiB (50.7 MiB/s) with 1 file(s) remainingCompleted 36.8 MiB/67.6 MiB (50.8 MiB/s) with 1 file(s) remaining [39mCompleted 37.0 MiB/67.6 MiB (50.8 MiB/s) with 1 file(s) remaining [39mCompleted 37.2 MiB/67.6 MiB (50.6 MiB/s) with 1 file(s) remaining [39mCompleted 37.5 MiB/67.6 MiB (50.8 MiB/s) with 1 file(s) remainingCompleted 37.8 MiB/67.6 MiB (51.0 MiB/s) with 1 file(s) remainingCompleted 38.0 MiB/67.6 MiB (51.2 MiB/s) with 1 file(s) remainingCompleted 38.2 MiB/67.6 MiB (51.2 MiB/s) with 1 file(s) remainingCompleted 38.5 MiB/67.6 MiB (51.4 MiB/s) with 1 file(s) remainingCompleted 38.8 MiB/67.6 MiB (51.4 MiB/s) with 1 file(s) remainingCompleted 39.0 MiB/67.6 MiB (51.6 MiB/s) with 1 file(s) remainingCompleted 39.2 MiB/67.6 MiB (51.8 MiB/s) with 1 file(s) remainingCompleted 39.5 MiB/67.6 MiB (52.0 MiB/s) with 1 file(s) remaining [39mCompleted 39.8 MiB/67.6 MiB (51.6 MiB/s) with 1 file(s) remainingCompleted 40.0 MiB/67.6 MiB (51.8 MiB/s) with 1 file(s) remainingCompleted 40.2 MiB/67.6 MiB (51.7 MiB/s) with 1 file(s) remaining [39mCompleted 40.5 MiB/67.6 MiB (51.6 MiB/s) with 1 file(s) remaining [39mCompleted 40.8 MiB/67.6 MiB (51.7 MiB/s) with 1 file(s) remainingCompleted 41.0 MiB/67.6 MiB (52.0 MiB/s) with 1 file(s) remaining [39mCompleted 41.2 MiB/67.6 MiB (52.2 MiB/s) with 1 file(s) remaining [39mCompleted 41.5 MiB/67.6 MiB (52.0 MiB/s) with 1 file(s) remaining [39mCompleted 41.8 MiB/67.6 MiB (52.3 MiB/s) with 1 file(s) remaining [39mCompleted 42.0 MiB/67.6 MiB (52.5 MiB/s) with 1 file(s) remaining [39mCompleted 42.2 MiB/67.6 MiB (52.7 MiB/s) with 1 file(s) remaining [39mCompleted 42.5 MiB/67.6 MiB (52.7 MiB/s) with 1 file(s) remaining [39mCompleted 42.8 MiB/67.6 MiB (52.8 MiB/s) with 1 file(s) remaining [39mCompleted 43.0 MiB/67.6 MiB (52.4 MiB/s) with 1 file(s) remaining [39mCompleted 43.2 MiB/67.6 MiB (52.5 MiB/s) with 1 file(s) remainingCompleted 43.5 MiB/67.6 MiB (52.8 MiB/s) with 1 file(s) remaining [39mCompleted 43.8 MiB/67.6 MiB (53.0 MiB/s) with 1 file(s) remaining [39mCompleted 44.0 MiB/67.6 MiB (52.5 MiB/s) with 1 file(s) remainingCompleted 44.2 MiB/67.6 MiB (52.7 MiB/s) with 1 file(s) remaining [39mCompleted 44.5 MiB/67.6 MiB (52.9 MiB/s) with 1 file(s) remaining [39mCompleted 44.8 MiB/67.6 MiB (53.1 MiB/s) with 1 file(s) remaining [39mCompleted 45.0 MiB/67.6 MiB (53.3 MiB/s) with 1 file(s) remaining [39mCompleted 45.2 MiB/67.6 MiB (53.2 MiB/s) with 1 file(s) remaining [39mCompleted 45.5 MiB/67.6 MiB (53.3 MiB/s) with 1 file(s) remaining [39mCompleted 45.8 MiB/67.6 MiB (53.4 MiB/s) with 1 file(s) remaining [39mCompleted 46.0 MiB/67.6 MiB (53.4 MiB/s) with 1 file(s) remaining [39mCompleted 46.2 MiB/67.6 MiB (53.3 MiB/s) with 1 file(s) remaining [39mCompleted 46.5 MiB/67.6 MiB (53.5 MiB/s) with 1 file(s) remainingCompleted 46.8 MiB/67.6 MiB (53.7 MiB/s) with 1 file(s) remaining [39mCompleted 47.0 MiB/67.6 MiB (53.5 MiB/s) with 1 file(s) remaining [39mCompleted 47.2 MiB/67.6 MiB (53.5 MiB/s) with 1 file(s) remaining [39mCompleted 47.5 MiB/67.6 MiB (53.7 MiB/s) with 1 file(s) remaining [39mCompleted 47.8 MiB/67.6 MiB (53.9 MiB/s) with 1 file(s) remaining [39mCompleted 48.0 MiB/67.6 MiB (53.7 MiB/s) with 1 file(s) remaining [39mCompleted 48.2 MiB/67.6 MiB (53.8 MiB/s) with 1 file(s) remaining [39mCompleted 48.5 MiB/67.6 MiB (54.1 MiB/s) with 1 file(s) remaining [39mCompleted 48.8 MiB/67.6 MiB (54.3 MiB/s) with 1 file(s) remainingCompleted 49.0 MiB/67.6 MiB (54.3 MiB/s) with 1 file(s) remaining [39mCompleted 49.2 MiB/67.6 MiB (54.1 MiB/s) with 1 file(s) remaining [39mCompleted 49.5 MiB/67.6 MiB (54.2 MiB/s) with 1 file(s) remaining [39mCompleted 49.8 MiB/67.6 MiB (54.4 MiB/s) with 1 file(s) remaining [39mCompleted 50.0 MiB/67.6 MiB (54.1 MiB/s) with 1 file(s) remainingCompleted 50.2 MiB/67.6 MiB (54.3 MiB/s) with 1 file(s) remainingCompleted 50.5 MiB/67.6 MiB (54.3 MiB/s) with 1 file(s) remaining [39mCompleted 50.8 MiB/67.6 MiB (54.3 MiB/s) with 1 file(s) remainingCompleted 51.0 MiB/67.6 MiB (54.4 MiB/s) with 1 file(s) remaining [39mCompleted 51.2 MiB/67.6 MiB (54.6 MiB/s) with 1 file(s) remaining [39mCompleted 51.5 MiB/67.6 MiB (54.7 MiB/s) with 1 file(s) remaining [39mCompleted 51.8 MiB/67.6 MiB (54.6 MiB/s) with 1 file(s) remaining [39mCompleted 52.0 MiB/67.6 MiB (54.7 MiB/s) with 1 file(s) remaining [39mCompleted 52.2 MiB/67.6 MiB (54.9 MiB/s) with 1 file(s) remaining [39mCompleted 52.5 MiB/67.6 MiB (54.4 MiB/s) with 1 file(s) remaining [39mCompleted 52.8 MiB/67.6 MiB (54.5 MiB/s) with 1 file(s) remaining [39mCompleted 53.0 MiB/67.6 MiB (54.7 MiB/s) with 1 file(s) remaining [39mCompleted 53.2 MiB/67.6 MiB (54.8 MiB/s) with 1 file(s) remaining [39mCompleted 53.5 MiB/67.6 MiB (54.9 MiB/s) with 1 file(s) remainingCompleted 53.8 MiB/67.6 MiB (55.2 MiB/s) with 1 file(s) remaining [39mCompleted 54.0 MiB/67.6 MiB (55.2 MiB/s) with 1 file(s) remaining [39mCompleted 54.2 MiB/67.6 MiB (55.4 MiB/s) with 1 file(s) remaining [39mCompleted 54.5 MiB/67.6 MiB (55.5 MiB/s) with 1 file(s) remaining [39mCompleted 54.8 MiB/67.6 MiB (55.3 MiB/s) with 1 file(s) remaining [39mCompleted 55.0 MiB/67.6 MiB (55.5 MiB/s) with 1 file(s) remaining [39mCompleted 55.1 MiB/67.6 MiB (55.5 MiB/s) with 1 file(s) remaining [39mCompleted 55.4 MiB/67.6 MiB (55.5 MiB/s) with 1 file(s) remaining [39mCompleted 55.6 MiB/67.6 MiB (55.7 MiB/s) with 1 file(s) remaining [39mCompleted 55.9 MiB/67.6 MiB (55.8 MiB/s) with 1 file(s) remaining [39mCompleted 56.1 MiB/67.6 MiB (55.5 MiB/s) with 1 file(s) remaining [39mCompleted 56.4 MiB/67.6 MiB (55.6 MiB/s) with 1 file(s) remaining [39mCompleted 56.6 MiB/67.6 MiB (55.8 MiB/s) with 1 file(s) remaining [39mCompleted 56.9 MiB/67.6 MiB (55.9 MiB/s) with 1 file(s) remaining [39mCompleted 57.1 MiB/67.6 MiB (55.8 MiB/s) with 1 file(s) remaining [39mCompleted 57.4 MiB/67.6 MiB (55.8 MiB/s) with 1 file(s) remaining [39mCompleted 57.6 MiB/67.6 MiB (56.0 MiB/s) with 1 file(s) remaining [39mCompleted 57.9 MiB/67.6 MiB (56.1 MiB/s) with 1 file(s) remaining [39mCompleted 58.1 MiB/67.6 MiB (56.2 MiB/s) with 1 file(s) remaining [39mCompleted 58.4 MiB/67.6 MiB (56.1 MiB/s) with 1 file(s) remaining [39mCompleted 58.6 MiB/67.6 MiB (56.3 MiB/s) with 1 file(s) remaining [39mCompleted 58.9 MiB/67.6 MiB (56.2 MiB/s) with 1 file(s) remaining [39mCompleted 59.1 MiB/67.6 MiB (56.2 MiB/s) with 1 file(s) remaining [39mCompleted 59.4 MiB/67.6 MiB (56.4 MiB/s) with 1 file(s) remaining [39mCompleted 59.6 MiB/67.6 MiB (56.5 MiB/s) with 1 file(s) remaining [39mCompleted 59.9 MiB/67.6 MiB (56.6 MiB/s) with 1 file(s) remaining [39mCompleted 60.1 MiB/67.6 MiB (56.4 MiB/s) with 1 file(s) remaining [39mCompleted 60.4 MiB/67.6 MiB (56.6 MiB/s) with 1 file(s) remaining [39mCompleted 60.6 MiB/67.6 MiB (56.5 MiB/s) with 1 file(s) remaining [39mCompleted 60.9 MiB/67.6 MiB (56.7 MiB/s) with 1 file(s) remaining [39mCompleted 61.1 MiB/67.6 MiB (56.7 MiB/s) with 1 file(s) remaining [39mCompleted 61.4 MiB/67.6 MiB (56.8 MiB/s) with 1 file(s) remaining [39mCompleted 61.6 MiB/67.6 MiB (56.6 MiB/s) with 1 file(s) remaining [39mCompleted 61.9 MiB/67.6 MiB (56.8 MiB/s) with 1 file(s) remaining [39mCompleted 62.1 MiB/67.6 MiB (56.9 MiB/s) with 1 file(s) remaining [39mCompleted 62.4 MiB/67.6 MiB (57.1 MiB/s) with 1 file(s) remaining [39mCompleted 62.6 MiB/67.6 MiB (56.8 MiB/s) with 1 file(s) remaining [39mCompleted 62.9 MiB/67.6 MiB (57.0 MiB/s) with 1 file(s) remaining [39mCompleted 63.1 MiB/67.6 MiB (57.1 MiB/s) with 1 file(s) remaining [39mCompleted 63.4 MiB/67.6 MiB (57.3 MiB/s) with 1 file(s) remaining [39mCompleted 63.6 MiB/67.6 MiB (57.3 MiB/s) with 1 file(s) remaining [39mCompleted 63.9 MiB/67.6 MiB (57.2 MiB/s) with 1 file(s) remaining [39mCompleted 64.1 MiB/67.6 MiB (57.2 MiB/s) with 1 file(s) remaining [39mCompleted 64.4 MiB/67.6 MiB (57.4 MiB/s) with 1 file(s) remaining [39mCompleted 64.6 MiB/67.6 MiB (57.4 MiB/s) with 1 file(s) remaining [39mCompleted 64.9 MiB/67.6 MiB (57.5 MiB/s) with 1 file(s) remaining [39mCompleted 65.1 MiB/67.6 MiB (57.5 MiB/s) with 1 file(s) remaining [39mCompleted 65.4 MiB/67.6 MiB (57.6 MiB/s) with 1 file(s) remaining [39mCompleted 65.6 MiB/67.6 MiB (57.6 MiB/s) with 1 file(s) remaining [39mCompleted 65.9 MiB/67.6 MiB (57.5 MiB/s) with 1 file(s) remaining [39mCompleted 66.1 MiB/67.6 MiB (57.6 MiB/s) with 1 file(s) remaining [39mCompleted 66.4 MiB/67.6 MiB (57.8 MiB/s) with 1 file(s) remaining [39mCompleted 66.6 MiB/67.6 MiB (57.8 MiB/s) with 1 file(s) remaining [39mCompleted 66.9 MiB/67.6 MiB (57.8 MiB/s) with 1 file(s) remaining [39mCompleted 67.1 MiB/67.6 MiB (57.9 MiB/s) with 1 file(s) remaining [39mCompleted 67.4 MiB/67.6 MiB (57.9 MiB/s) with 1 file(s) remaining [39mCompleted 67.6 MiB/67.6 MiB (58.0 MiB/s) with 1 file(s) remaining [39mdownload: s3://aws-robomaker-samples-us-east-1-1fd12c306611/hello-world/melodic/gazebo9/1.4.0.62/1.2.0/sources.zip to ./sources.zip
+ [39mArchive:  /home/ubuntu/environment/sources.zip
+ [39m   creating: HelloWorld/robot_ws/
+  inflating: HelloWorld/robot_ws/.rosinstall   [39m
+ [39m   creating: HelloWorld/robot_ws/src/
+ [39m   creating: HelloWorld/robot_ws/src/hello_world_robot/
+ [39m   creating: HelloWorld/robot_ws/src/hello_world_robot/src/
+ [39m   creating: HelloWorld/robot_ws/src/hello_world_robot/src/hello_world_robot/
+ [39m extracting: HelloWorld/robot_ws/src/hello_world_robot/src/hello_world_robot/__init__.py   [39m
+  inflating: HelloWorld/robot_ws/src/hello_world_robot/CMakeLists.txt  
+   creating: HelloWorld/robot_ws/src/hello_world_robot/launch/
+  inflating: HelloWorld/robot_ws/src/hello_world_robot/launch/rotate.launch  
+ [39m  inflating: HelloWorld/robot_ws/src/hello_world_robot/launch/deploy_rotate.launch   [39m
+ [39m   creating: HelloWorld/robot_ws/src/hello_world_robot/deploymentScripts/
+ [39m  inflating: HelloWorld/robot_ws/src/hello_world_robot/deploymentScripts/pre_launch_file.sh   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/hello_world_robot/deploymentScripts/post_launch_file.sh   [39m
+ [39m   creating: HelloWorld/robot_ws/src/hello_world_robot/nodes/
+ [39m  inflating: HelloWorld/robot_ws/src/hello_world_robot/nodes/rotate   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/hello_world_robot/package.xml   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/hello_world_robot/setup.py   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/LICENSE.txt   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/left_tire_reduced.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/left_tire.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/right_tire.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/right_tire_reduced.stl   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/astra.dae   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/lds.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/r200.dae   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/astra.jpg   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/r200.jpg   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_base_for_open_manipulator.stl   [39m
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_base.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/burger_base.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_pi_base_for_open_manipulator.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_pi_base_reduced.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/burger_base_decimated.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_pi_base.stl   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/LICENSE   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.github/
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.github/PULL_REQUEST_TEMPLATE.md   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/CMakeLists.txt  
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/index  
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/description  
+   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/
+   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/heads/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/heads/ros1   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/remotes/
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/remotes/origin/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/remotes/origin/HEAD  
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/HEAD   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/branches/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/config   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/pack/
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/pack/pack-e2549444d4eb8601d5c607087ea1a10a614ba3b5.pack   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/pack/pack-e2549444d4eb8601d5c607087ea1a10a614ba3b5.idx  
+   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/info/
+   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/update.sample   [39m
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/fsmonitor-watchman.sample  
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-commit.sample  
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-applypatch.sample  
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/post-update.sample  
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/applypatch-msg.sample   [39m
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-receive.sample  
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-push.sample  
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-rebase.sample  
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/prepare-commit-msg.sample   [39m
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/commit-msg.sample  
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/heads/
+ [39m extracting: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/heads/ros1  
+   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/tags/
+   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/remotes/
+   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/remotes/origin/
+ [39m extracting: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/remotes/origin/HEAD  
+ [39m extracting: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/HEAD  
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/info/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/info/exclude   [39m
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/.git/packed-refs   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/launch/
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/launch/spawn_turtlebot.launch   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/CONTRIBUTING.md   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/package.xml   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/README.md   [39m
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/CODE_OF_CONDUCT.md   [39m
+ [39m   creating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle.urdf.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger.gazebo.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger_for_autorace.urdf.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger_for_autorace.gazebo.xacro   [39m
+  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_pi.gazebo.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger.urdf.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle.gazebo.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_pi.urdf.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_for_open_manipulator.urdf.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/common_properties.xacro   [39m
+ [39m  inflating: HelloWorld/robot_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_pi_for_open_manipulator.urdf.xacro   [39m
+ [39m   creating: HelloWorld/robot_ws/log/
+ [39m   creating: HelloWorld/robot_ws/log/list_2020-09-25_14-19-47/
+  inflating: HelloWorld/robot_ws/log/list_2020-09-25_14-19-47/logger_all.log   [39m
+ [39m extracting: HelloWorld/robot_ws/log/COLCON_IGNORE  
+ [39m   creating: HelloWorld/robot_ws/log/latest_list/
+ [39m  inflating: HelloWorld/robot_ws/log/latest_list/logger_all.log   [39m
+ [39m   creating: HelloWorld/robot_ws/log/latest/
+ [39m  inflating: HelloWorld/robot_ws/log/latest/logger_all.log   [39m
+ [39m   creating: HelloWorld/simulation_ws/
+  inflating: HelloWorld/simulation_ws/.rosinstall   [39m
+ [39m   creating: HelloWorld/simulation_ws/src/
+ [39m   creating: HelloWorld/simulation_ws/src/hello_world_simulation/
+  inflating: HelloWorld/simulation_ws/src/hello_world_simulation/CMakeLists.txt  
+   creating: HelloWorld/simulation_ws/src/hello_world_simulation/launch/
+ [39m  inflating: HelloWorld/simulation_ws/src/hello_world_simulation/launch/view_empty_world.launch  
+  inflating: HelloWorld/simulation_ws/src/hello_world_simulation/launch/empty_world.launch  
+  inflating: HelloWorld/simulation_ws/src/hello_world_simulation/launch/worldforge_world.launch  
+  inflating: HelloWorld/simulation_ws/src/hello_world_simulation/package.xml  
+ [39m   creating: HelloWorld/simulation_ws/src/hello_world_simulation/worlds/
+  inflating: HelloWorld/simulation_ws/src/hello_world_simulation/worlds/empty.world   [39m
+  inflating: HelloWorld/simulation_ws/src/LICENSE.txt   [39m
+   creating: HelloWorld/simulation_ws/src/deps/
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/left_tire_reduced.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/left_tire.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/right_tire.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/wheels/right_tire_reduced.stl   [39m
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/astra.dae   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/lds.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/r200.dae   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/astra.jpg   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/sensors/r200.jpg  
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_base_for_open_manipulator.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_base.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/burger_base.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_pi_base_for_open_manipulator.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_pi_base_reduced.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/burger_base_decimated.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/meshes/bases/waffle_pi_base.stl   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/LICENSE  
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.github/
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.github/PULL_REQUEST_TEMPLATE.md  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/CMakeLists.txt  
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/index   [39m
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/description  
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/heads/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/heads/ros1  
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/remotes/
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/remotes/origin/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/refs/remotes/origin/HEAD   [39m
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/logs/HEAD  
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/branches/
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/config  
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/pack/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/pack/pack-e2549444d4eb8601d5c607087ea1a10a614ba3b5.pack   [39m
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/pack/pack-e2549444d4eb8601d5c607087ea1a10a614ba3b5.idx  
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/objects/info/
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/update.sample  
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/fsmonitor-watchman.sample  
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-commit.sample  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-applypatch.sample  
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/post-update.sample  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/applypatch-msg.sample  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-receive.sample  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-push.sample  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/pre-rebase.sample  
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/prepare-commit-msg.sample  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/hooks/commit-msg.sample  
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/heads/
+ extracting: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/heads/ros1   [39m
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/tags/
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/remotes/
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/remotes/origin/
+ [39m extracting: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/refs/remotes/origin/HEAD  
+ extracting: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/HEAD  
+   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/info/
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/info/exclude  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/.git/packed-refs  
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/launch/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/launch/spawn_turtlebot.launch  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/CONTRIBUTING.md   [39m
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/package.xml  
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/README.md  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/CODE_OF_CONDUCT.md  
+ [39m   creating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle.urdf.xacro  
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger.gazebo.xacro  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger_for_autorace.urdf.xacro   [39m
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger_for_autorace.gazebo.xacro  
+ [39m  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_pi.gazebo.xacro  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_burger.urdf.xacro   [39m
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle.gazebo.xacro   [39m
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_pi.urdf.xacro  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_for_open_manipulator.urdf.xacro   [39m
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/common_properties.xacro  
+  inflating: HelloWorld/simulation_ws/src/deps/turtlebot3-description-reduced-mesh/urdf/turtlebot3_waffle_pi_for_open_manipulator.urdf.xacro  
+  inflating: HelloWorld/LICENSE      
+  inflating: HelloWorld/NOTICE        [39m
+  inflating: HelloWorld/README.md    
+  inflating: HelloWorld/roboMakerSettings.json   [39m
+ [32m[11:52:13 PM] --> Download succeeded.
+
+ [39m[11:52:13 PM] --> Updating required dependencies
+ [39mHit:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic InRelease
+ [39mHit:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates InRelease
+ [39mHit:3 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-backports InRelease
+ [39mHit:4 http://security.ubuntu.com/ubuntu bionic-security InRelease
+ [39mHit:5 http://packages.ros.org/ros/ubuntu bionic InRelease
+ [39mHit:6 https://download.docker.com/linux/ubuntu bionic InRelease
+ [39mReading package lists... [39m
+ [39mReading package lists... [39m
+ [39mBuilding dependency tree... [39m
+Reading state information... [39m
+ [39mCalculating upgrade... [39m
+ [39mThe following packages were automatically installed and are no longer required:
+ [39m  gyp libc-ares2 libhttp-parser2.7.1 libjs-async libjs-inherits
+ [39m  libjs-node-uuid libjs-underscore libuv1-dev node-abbrev node-ansi
+  node-ansi-color-table node-archy node-async node-balanced-match
+  node-block-stream node-brace-expansion node-builtin-modules
+  node-combined-stream node-concat-map node-cookie-jar node-delayed-stream
+  node-forever-agent node-form-data node-fs.realpath node-fstream
+  node-fstream-ignore node-github-url-from-git node-glob node-graceful-fs
+  node-hosted-git-info node-inflight node-inherits node-ini
+  node-is-builtin-module node-isexe node-json-stringify-safe node-lockfile
+  node-lru-cache node-mime node-minimatch node-mkdirp node-mute-stream
+  node-node-uuid node-nopt node-normalize-package-data node-npmlog node-once
+  node-osenv node-path-is-absolute node-pseudomap node-qs node-read
+  node-read-package-json node-request node-retry node-rimraf node-semver
+  node-sha node-slide node-spdx-correct node-spdx-expression-parse
+  node-spdx-license-ids node-tar node-tunnel-agent node-underscore
+  node-validate-npm-package-license node-which node-wrappy node-yallist nodejs
+ [39m  nodejs-doc
+Use 'sudo apt autoremove' to remove them.
+ [39mThe following packages have been kept back:
+ [39m  linux-aws linux-headers-aws linux-image-aws
+ [39mThe following packages will be upgraded:
+ [39m  bind9-host dirmngr dnsmasq-base dnsutils gnupg gnupg-l10n gnupg-utils gpg
+ [39m  gpg-agent gpg-wks-client gpg-wks-server gpgconf gpgsm gpgv libbind9-160
+ [39m  libdns-export1100 libdns1100 libirs160 libisc-export169 libisc169
+ [39m  libisccc160 libisccfg160 libldap-2.4-2 libldap-common libldap2-dev
+ [39m  liblwres160 libssl-dev libssl1.0.0 libssl1.1 linux-libc-dev openssl
+ [39m  pollinate python-httplib2 python3-httplib2 ros-melodic-desktop
+ [39m  ros-melodic-laser-geometry ros-melodic-librviz-tutorial ros-melodic-rqt-bag
+  ros-melodic-rqt-bag-plugins ros-melodic-rqt-common-plugins
+  ros-melodic-rqt-robot-dashboard ros-melodic-rqt-robot-monitor
+  ros-melodic-rqt-robot-plugins ros-melodic-rqt-rviz ros-melodic-rviz
+  ros-melodic-rviz-plugin-tutorials ros-melodic-rviz-python-tutorial
+  ros-melodic-urdf-tutorial ros-melodic-visualization-tutorials
+ [39m  ros-melodic-viz screen xterm
+ [39m52 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
+Need to get 7074 kB/17.1 MB of archives.
+After this operation, 16.4 kB of additional disk space will be used.
+Get:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gpg-wks-client amd64 2.2.4-1ubuntu1.4 [91.8 kB]
+ [39mGet:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 dirmngr amd64 2.2.4-1ubuntu1.4 [316 kB]
+ [39mGet:3 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gpg-wks-server amd64 2.2.4-1ubuntu1.4 [85.0 kB]
+ [39mGet:4 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gnupg-utils amd64 2.2.4-1ubuntu1.4 [128 kB]
+ [39mGet:5 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gpg-agent amd64 2.2.4-1ubuntu1.4 [227 kB]
+ [39mGet:6 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gpg amd64 2.2.4-1ubuntu1.4 [467 kB]
+ [39mGet:7 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-laser-geometry amd64 1.6.7-1bionic.20210206.030710 [38.2 kB]
+ [39mGet:8 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gpgconf amd64 2.2.4-1ubuntu1.4 [123 kB]
+ [39mGet:9 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gnupg-l10n all 2.2.4-1ubuntu1.4 [49.8 kB]
+ [39mGet:10 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gnupg amd64 2.2.4-1ubuntu1.4 [249 kB]
+ [39mGet:11 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gpgsm amd64 2.2.4-1ubuntu1.4 [215 kB]
+ [39mGet:12 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 gpgv amd64 2.2.4-1ubuntu1.4 [198 kB]
+ [39mGet:13 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rviz amd64 1.13.15-1bionic.20210206.031829 [2214 kB]
+ [39mGet:14 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 pollinate all 4.33-0ubuntu1~18.04.2 [11.8 kB]
+ [39mGet:15 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 python-httplib2 all 0.9.2+dfsg-1ubuntu0.3 [34.9 kB]
+ [39mGet:16 http://us-east-1.ec2.archive.ubuntu.com/ubuntu bionic-updates/main amd64 python3-httplib2 all 0.9.2+dfsg-1ubuntu0.3 [28.8 kB]
+ [39mGet:17 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-librviz-tutorial amd64 0.10.5-1bionic.20210206.042233 [14.0 kB]
+ [39mGet:18 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-bag amd64 0.5.1-1bionic.20210219.183130 [72.9 kB]
+ [39mGet:19 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-bag-plugins amd64 0.5.1-1bionic.20210219.183411 [26.0 kB]
+ [39mGet:20 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-robot-monitor amd64 0.5.13-1bionic.20210219.183340 [29.1 kB]
+ [39mGet:21 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rviz-plugin-tutorials amd64 0.10.5-1bionic.20210206.042327 [103 kB]
+ [39mGet:22 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rviz-python-tutorial amd64 0.10.5-1bionic.20210206.042341 [8296 B]
+ [39mGet:23 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-visualization-tutorials amd64 0.10.5-1bionic.20210206.043022 [2028 B]
+ [39mGet:24 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-urdf-tutorial amd64 0.4.0-0bionic.20210206.035955 [749 kB]
+ [39mGet:25 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-common-plugins amd64 0.4.8-0bionic.20210219.183458 [3096 B]
+ [39mGet:26 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-robot-dashboard amd64 0.5.7-0bionic.20210219.183509 [1547 kB]
+ [39mGet:27 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-rviz amd64 0.6.0-0bionic.20210206.042303 [34.1 kB]
+ [39mGet:28 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-robot-plugins amd64 0.5.7-0bionic.20210219.183706 [3200 B]
+ [39mGet:29 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-viz amd64 1.4.1-0bionic.20210219.183743 [1804 B]
+ [39mGet:30 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-desktop amd64 1.4.1-0bionic.20210219.183826 [1872 B]
+ [31mdebconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+ [31mdebconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+ [31mdebconf: falling back to frontend: Teletype
+ [31mdpkg-preconfigure: unable to re-open stdin: 
+ [39mFetched 7074 kB in 1s (5441 kB/s)
+ [39m(Reading database ...  [39m(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50% [39m(Reading database ... 55% [39m(Reading database ... 60% [39m(Reading database ... 65% [39m(Reading database ... 70% [39m(Reading database ... 75% [39m(Reading database ... 80% [39m(Reading database ... 85% [39m(Reading database ... 90% [39m(Reading database ... 95% [39m(Reading database ... 100%(Reading database ... 192687 files and directories currently installed.)
+ [39mPreparing to unpack .../00-gpg-wks-client_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gpg-wks-client (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../01-dirmngr_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking dirmngr (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../02-gpg-wks-server_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gpg-wks-server (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../03-gnupg-utils_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gnupg-utils (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../04-gpg-agent_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gpg-agent (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../05-gpg_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gpg (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../06-gpgconf_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gpgconf (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../07-gnupg-l10n_2.2.4-1ubuntu1.4_all.deb ...
+ [39mUnpacking gnupg-l10n (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../08-gnupg_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gnupg (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../09-gpgsm_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gpgsm (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mPreparing to unpack .../10-libldap-common_2.4.45+dfsg-1ubuntu1.10_all.deb ...
+ [39mUnpacking libldap-common (2.4.45+dfsg-1ubuntu1.10) over (2.4.45+dfsg-1ubuntu1.9) ...
+ [39mPreparing to unpack .../11-libldap2-dev_2.4.45+dfsg-1ubuntu1.10_amd64.deb ...
+ [39mUnpacking libldap2-dev:amd64 (2.4.45+dfsg-1ubuntu1.10) over (2.4.45+dfsg-1ubuntu1.9) ...
+ [39mPreparing to unpack .../12-libldap-2.4-2_2.4.45+dfsg-1ubuntu1.10_amd64.deb ...
+ [39mUnpacking libldap-2.4-2:amd64 (2.4.45+dfsg-1ubuntu1.10) over (2.4.45+dfsg-1ubuntu1.9) ...
+ [39mPreparing to unpack .../13-gpgv_2.2.4-1ubuntu1.4_amd64.deb ...
+ [39mUnpacking gpgv (2.2.4-1ubuntu1.4) over (2.2.4-1ubuntu1.3) ...
+ [39mSetting up gpgv (2.2.4-1ubuntu1.4) ...
+ [39m(Reading database ...  [39m(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20% [39m(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50% [39m(Reading database ... 55% [39m(Reading database ... 60% [39m(Reading database ... 70% [39m(Reading database ... 65% [39m(Reading database ... 75% [39m(Reading database ... 80% [39m(Reading database ... 85% [39m(Reading database ... 90% [39m(Reading database ... 95% [39m(Reading database ... 100%(Reading database ... 192687 files and directories currently installed.)
+ [39mPreparing to unpack .../00-libssl-dev_1.1.1-1ubuntu2.1~18.04.8_amd64.deb ...
+ [39mUnpacking libssl-dev:amd64 (1.1.1-1ubuntu2.1~18.04.8) over (1.1.1-1ubuntu2.1~18.04.7) ...
+ [39mPreparing to unpack .../01-libssl1.1_1.1.1-1ubuntu2.1~18.04.8_amd64.deb ...
+ [39mUnpacking libssl1.1:amd64 (1.1.1-1ubuntu2.1~18.04.8) over (1.1.1-1ubuntu2.1~18.04.7) ...
+ [39mPreparing to unpack .../02-libisc-export169_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libisc-export169:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../03-libdns-export1100_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libdns-export1100 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../04-openssl_1.1.1-1ubuntu2.1~18.04.8_amd64.deb ...
+ [39mUnpacking openssl (1.1.1-1ubuntu2.1~18.04.8) over (1.1.1-1ubuntu2.1~18.04.7) ...
+ [39mPreparing to unpack .../05-libirs160_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libirs160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../06-bind9-host_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking bind9-host (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../07-dnsutils_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking dnsutils (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../08-libbind9-160_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libbind9-160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../09-libisccfg160_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libisccfg160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../10-libisccc160_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libisccc160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../11-libdns1100_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libdns1100:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../12-libisc169_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking libisc169:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../13-liblwres160_1%3a9.11.3+dfsg-1ubuntu1.14_amd64.deb ...
+ [39mUnpacking liblwres160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) over (1:9.11.3+dfsg-1ubuntu1.13) ...
+ [39mPreparing to unpack .../14-libssl1.0.0_1.0.2n-1ubuntu5.6_amd64.deb ...
+ [39mUnpacking libssl1.0.0:amd64 (1.0.2n-1ubuntu5.6) over (1.0.2n-1ubuntu5.5) ...
+ [39mPreparing to unpack .../15-dnsmasq-base_2.79-1ubuntu0.3_amd64.deb ...
+ [39mUnpacking dnsmasq-base (2.79-1ubuntu0.3) over (2.79-1ubuntu0.2) ...
+ [39mPreparing to unpack .../16-linux-libc-dev_4.15.0-136.140_amd64.deb ...
+ [39mUnpacking linux-libc-dev:amd64 (4.15.0-136.140) over (4.15.0-135.139) ...
+ [39mPreparing to unpack .../17-pollinate_4.33-0ubuntu1~18.04.2_all.deb ...
+ [39mUnpacking pollinate (4.33-0ubuntu1~18.04.2) over (4.33-0ubuntu1~18.04.1) ...
+ [39mPreparing to unpack .../18-python-httplib2_0.9.2+dfsg-1ubuntu0.3_all.deb ...
+ [39mUnpacking python-httplib2 (0.9.2+dfsg-1ubuntu0.3) over (0.9.2+dfsg-1ubuntu0.2) ...
+ [39mPreparing to unpack .../19-python3-httplib2_0.9.2+dfsg-1ubuntu0.3_all.deb ...
+ [39mUnpacking python3-httplib2 (0.9.2+dfsg-1ubuntu0.3) over (0.9.2+dfsg-1ubuntu0.2) ...
+ [39mPreparing to unpack .../20-ros-melodic-laser-geometry_1.6.7-1bionic.20210206.030710_amd64.deb ...
+ [39mUnpacking ros-melodic-laser-geometry (1.6.7-1bionic.20210206.030710) over (1.6.5-1bionic.20210112.192410) ...
+ [39mPreparing to unpack .../21-ros-melodic-rviz_1.13.15-1bionic.20210206.031829_amd64.deb ...
+ [39mUnpacking ros-melodic-rviz (1.13.15-1bionic.20210206.031829) over (1.13.15-1bionic.20210112.192852) ...
+ [39mPreparing to unpack .../22-ros-melodic-librviz-tutorial_0.10.5-1bionic.20210206.042233_amd64.deb ...
+ [39mUnpacking ros-melodic-librviz-tutorial (0.10.5-1bionic.20210206.042233) over (0.10.5-1bionic.20210112.203713) ...
+ [39mPreparing to unpack .../23-ros-melodic-rqt-bag_0.5.1-1bionic.20210219.183130_amd64.deb ...
+ [39mUnpacking ros-melodic-rqt-bag (0.5.1-1bionic.20210219.183130) over (0.5.0-1bionic.20201217.004333) ...
+ [39mPreparing to unpack .../24-ros-melodic-rqt-bag-plugins_0.5.1-1bionic.20210219.183411_amd64.deb ...
+ [39mUnpacking ros-melodic-rqt-bag-plugins (0.5.1-1bionic.20210219.183411) over (0.5.0-1bionic.20210112.184147) ...
+ [39mPreparing to unpack .../25-ros-melodic-rqt-robot-monitor_0.5.13-1bionic.20210219.183340_amd64.deb ...
+ [39mUnpacking ros-melodic-rqt-robot-monitor (0.5.13-1bionic.20210219.183340) over (0.5.13-1bionic.20210112.182954) ...
+ [39mPreparing to unpack .../26-ros-melodic-rviz-plugin-tutorials_0.10.5-1bionic.20210206.042327_amd64.deb ...
+ [39mUnpacking ros-melodic-rviz-plugin-tutorials (0.10.5-1bionic.20210206.042327) over (0.10.5-1bionic.20210112.203801) ...
+ [39mPreparing to unpack .../27-ros-melodic-rviz-python-tutorial_0.10.5-1bionic.20210206.042341_amd64.deb ...
+ [39mUnpacking ros-melodic-rviz-python-tutorial (0.10.5-1bionic.20210206.042341) over (0.10.5-1bionic.20210112.203800) ...
+ [39mPreparing to unpack .../28-ros-melodic-visualization-tutorials_0.10.5-1bionic.20210206.043022_amd64.deb ...
+ [39mUnpacking ros-melodic-visualization-tutorials (0.10.5-1bionic.20210206.043022) over (0.10.5-1bionic.20210112.204315) ...
+ [39mPreparing to unpack .../29-screen_4.6.2-1ubuntu1.1_amd64.deb ...
+ [39mUnpacking screen (4.6.2-1ubuntu1.1) over (4.6.2-1ubuntu1) ...
+ [39mPreparing to unpack .../30-xterm_330-1ubuntu2.2_amd64.deb ...
+ [39mUnpacking xterm (330-1ubuntu2.2) over (330-1ubuntu2) ...
+ [39mPreparing to unpack .../31-ros-melodic-urdf-tutorial_0.4.0-0bionic.20210206.035955_amd64.deb ...
+ [39mUnpacking ros-melodic-urdf-tutorial (0.4.0-0bionic.20210206.035955) over (0.4.0-0bionic.20210112.201357) ...
+ [39mPreparing to unpack .../32-ros-melodic-rqt-common-plugins_0.4.8-0bionic.20210219.183458_amd64.deb ...
+ [39mUnpacking ros-melodic-rqt-common-plugins (0.4.8-0bionic.20210219.183458) over (0.4.8-0bionic.20210112.203602) ...
+ [39mPreparing to unpack .../33-ros-melodic-rqt-robot-dashboard_0.5.7-0bionic.20210219.183509_amd64.deb ...
+ [39mUnpacking ros-melodic-rqt-robot-dashboard (0.5.7-0bionic.20210219.183509) over (0.5.7-0bionic.20210112.185042) ...
+ [39mPreparing to unpack .../34-ros-melodic-rqt-rviz_0.6.0-0bionic.20210206.042303_amd64.deb ...
+ [39mUnpacking ros-melodic-rqt-rviz (0.6.0-0bionic.20210206.042303) over (0.6.0-0bionic.20210112.203751) ...
+ [39mPreparing to unpack .../35-ros-melodic-rqt-robot-plugins_0.5.7-0bionic.20210219.183706_amd64.deb ...
+ [39mUnpacking ros-melodic-rqt-robot-plugins (0.5.7-0bionic.20210219.183706) over (0.5.7-0bionic.20210112.204210) ...
+ [39mPreparing to unpack .../36-ros-melodic-viz_1.4.1-0bionic.20210219.183743_amd64.deb ...
+ [39mUnpacking ros-melodic-viz (1.4.1-0bionic.20210219.183743) over (1.4.1-0bionic.20210112.204251) ...
+ [39mPreparing to unpack .../37-ros-melodic-desktop_1.4.1-0bionic.20210219.183826_amd64.deb ...
+ [39mUnpacking ros-melodic-desktop (1.4.1-0bionic.20210219.183826) over (1.4.1-0bionic.20210112.204408) ...
+ [39mSetting up pollinate (4.33-0ubuntu1~18.04.2) ...
+ [39mSetting up ros-melodic-rqt-bag (0.5.1-1bionic.20210219.183130) ...
+ [39mSetting up libssl1.0.0:amd64 (1.0.2n-1ubuntu5.6) ...
+ [39mdebconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+ [39mdebconf: falling back to frontend: Readline
+ [39mSetting up libldap-common (2.4.45+dfsg-1ubuntu1.10) ...
+ [39mSetting up gpgconf (2.2.4-1ubuntu1.4) ...
+ [39mSetting up linux-libc-dev:amd64 (4.15.0-136.140) ...
+ [39mSetting up gpg-agent (2.2.4-1ubuntu1.4) ...
+ [39mSetting up ros-melodic-laser-geometry (1.6.7-1bionic.20210206.030710) ...
+ [39mSetting up ros-melodic-rqt-robot-monitor (0.5.13-1bionic.20210219.183340) ...
+ [39mSetting up xterm (330-1ubuntu2.2) ...
+ [39mSetting up gnupg-l10n (2.2.4-1ubuntu1.4) ...
+ [39mSetting up ros-melodic-rqt-bag-plugins (0.5.1-1bionic.20210219.183411) ...
+ [39mSetting up python-httplib2 (0.9.2+dfsg-1ubuntu0.3) ...
+ [39mSetting up libldap-2.4-2:amd64 (2.4.45+dfsg-1ubuntu1.10) ...
+ [39mSetting up libssl1.1:amd64 (1.1.1-1ubuntu2.1~18.04.8) ...
+ [39mdebconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+ [39mSetting up gpgsm (2.2.4-1ubuntu1.4) ...
+ [39mSetting up python3-httplib2 (0.9.2+dfsg-1ubuntu0.3) ...
+ [39mSetting up openssl (1.1.1-1ubuntu2.1~18.04.8) ...
+ [39mSetting up gnupg-utils (2.2.4-1ubuntu1.4) ...
+ [39mSetting up dnsmasq-base (2.79-1ubuntu0.3) ...
+ [39mSetting up screen (4.6.2-1ubuntu1.1) ...
+ [39mdebconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+ [39mSetting up dirmngr (2.2.4-1ubuntu1.4) ...
+ [39mSetting up liblwres160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up gpg (2.2.4-1ubuntu1.4) ...
+ [39mSetting up libldap2-dev:amd64 (2.4.45+dfsg-1ubuntu1.10) ...
+ [39mSetting up libisc169:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up libisccc160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up ros-melodic-rviz (1.13.15-1bionic.20210206.031829) ...
+ [39mSetting up ros-melodic-rqt-rviz (0.6.0-0bionic.20210206.042303) ...
+ [39mSetting up ros-melodic-rqt-robot-dashboard (0.5.7-0bionic.20210219.183509) ...
+ [39mSetting up libisc-export169:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up libssl-dev:amd64 (1.1.1-1ubuntu2.1~18.04.8) ...
+ [39mSetting up ros-melodic-rqt-common-plugins (0.4.8-0bionic.20210219.183458) ...
+ [39mSetting up gpg-wks-server (2.2.4-1ubuntu1.4) ...
+ [39mSetting up gpg-wks-client (2.2.4-1ubuntu1.4) ...
+ [39mSetting up ros-melodic-rviz-python-tutorial (0.10.5-1bionic.20210206.042341) ...
+ [39mSetting up ros-melodic-rviz-plugin-tutorials (0.10.5-1bionic.20210206.042327) ...
+ [39mSetting up ros-melodic-librviz-tutorial (0.10.5-1bionic.20210206.042233) ...
+ [39mSetting up libdns-export1100 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up ros-melodic-urdf-tutorial (0.4.0-0bionic.20210206.035955) ...
+ [39mSetting up libdns1100:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up ros-melodic-rqt-robot-plugins (0.5.7-0bionic.20210219.183706) ...
+ [39mSetting up ros-melodic-visualization-tutorials (0.10.5-1bionic.20210206.043022) ...
+ [39mSetting up gnupg (2.2.4-1ubuntu1.4) ...
+ [39mSetting up libisccfg160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up ros-melodic-viz (1.4.1-0bionic.20210219.183743) ...
+ [39mSetting up libirs160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up libbind9-160:amd64 (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up ros-melodic-desktop (1.4.1-0bionic.20210219.183826) ...
+ [39mSetting up bind9-host (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mSetting up dnsutils (1:9.11.3+dfsg-1ubuntu1.14) ...
+ [39mProcessing triggers for systemd (237-3ubuntu10.44) ...
+ [39mProcessing triggers for man-db (2.8.3-2ubuntu0.1) ...
+ [39mProcessing triggers for dbus (1.12.2-1ubuntu1.2) ...
+ [39mProcessing triggers for hicolor-icon-theme (0.17-2) ...
+ [39mProcessing triggers for mime-support (3.60ubuntu1) ...
+ [39mProcessing triggers for ureadahead (0.100.0-21) ...
+ [39mProcessing triggers for install-info (6.5.0.dfsg.1-2) ...
+ [39mProcessing triggers for libc-bin (2.27-3ubuntu1.4) ...
+ [32m[11:53:04 PM] --> Update succeeded.
+
